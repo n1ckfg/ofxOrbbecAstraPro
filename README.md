@@ -1,4 +1,4 @@
-# ofxOrbbecAsPro
+# ofxOrbbecAstraPro
 
 Simple wrapper for Orbbec Astra camera series in Linux ARM x86 architecture only.
 
